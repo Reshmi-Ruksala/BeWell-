@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="8dp"
+    android:background="@drawable/emoji_selector_background">
+
+    <TextView
+        android:id="@+id/emojiText"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:text="😊"
+        android:textSize="24sp"
+        android:gravity="center"
+        android:background="@drawable/emoji_circle_background" />
+
+    <TextView
+        android:id="@+id/emojiName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Happy"
+        android:textColor="@color/text_primary_light"
+        android:textSize="10sp"
+        android:layout_marginTop="4dp"
+        android:maxLines="1"
+        android:ellipsize="end" />
+
+</LinearLayout>

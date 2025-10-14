@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Theme Colors -->
+    <color name="primary_green">#60D394</color>
+    <color name="secondary_blue">#35A7FF</color>
+    <color name="accent_teal">#00BCD4</color>
+
+    <!-- Backgrounds and Surfaces -->
+    <color name="background_dark">#1D2125</color>
+    <color name="surface_card">#2A3036</color>
+    <color name="surface_highlight">#3A3F45</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary_light">#E0E0E0</color>
+    <color name="text_secondary_subtle">#9AA3AC</color>
+    <color name="text_accent">#FFFFFF</color>
+
+    <!-- Status Indicators -->
+    <color name="status_missed_red">#EF5350</color>
+    <color name="status_complete_green">#4CAF50</color>
+    <color name="status_pending_yellow">#FFEB3B</color>
+
+    <!-- Navigation & Icon Tints -->
+    <color name="nav_icon_active">#60D394</color>
+    <color name="nav_icon_inactive">#9AA3AC</color>
+    <color name="nav_background">#2A3036</color>
+
+    <!-- Progress Chart Colors -->
+    <color name="progress_start">#00BCD4</color>
+    <color name="progress_end">#35A7FF</color>
+
+    <!-- Legacy Habit Page Colors (keeping for compatibility) -->
+    <color name="light_background">#FFF5F7FA</color>
+    <color name="gradient_start">#667eea</color>
+    <color name="gradient_end">#764ba2</color>
+    <color name="accent_blue">#4285F4</color>
+    <color name="text_secondary">#757575</color>
+</resources>
