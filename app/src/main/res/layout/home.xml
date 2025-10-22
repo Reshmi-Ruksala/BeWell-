@@ -41,7 +41,7 @@
                         android:id="@+id/greetingText"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Good Morning! ☀️"
+                        android:text="@string/good_morning"
                         android:textColor="@color/text_primary_light"
                         android:textSize="24sp"
                         android:textStyle="bold" />
@@ -50,7 +50,7 @@
                         android:id="@+id/greetingSubtitle"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Ready to make today amazing?"
+                        android:text="@string/ready_to_make_today_amazing"
                         android:textColor="@color/text_secondary_subtle"
                         android:textSize="14sp"
                         android:layout_marginTop="4dp" />
@@ -71,7 +71,7 @@
                         android:id="@+id/currentTimeText"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="14:30"
+                        android:text="@string/_14_30"
                         android:textColor="@color/primary_green"
                         android:textSize="20sp"
                         android:textStyle="bold"
@@ -81,7 +81,7 @@
                         android:id="@+id/currentDateText"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Dec 15, 2024"
+                        android:text="@string/dec_15_2024"
                         android:textColor="@color/text_secondary_subtle"
                         android:textSize="12sp" />
 
@@ -109,7 +109,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="😊 Current Mood"
+                        android:text="@string/current_mood"
                         android:textColor="@color/text_primary_light"
                         android:textSize="16sp"
                         android:textStyle="bold" />
@@ -118,7 +118,7 @@
                         android:id="@+id/currentMoodText"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Happy"
+                        android:text="@string/happy"
                         android:textColor="@color/text_secondary_subtle"
                         android:textSize="14sp"
                         android:layout_marginTop="4dp" />
@@ -152,7 +152,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="📋 Today's Habits Progress"
+                    android:text="@string/today_s_habits_progress"
                     android:textColor="@color/text_primary_light"
                     android:textSize="16sp"
                     android:textStyle="bold"
@@ -177,7 +177,7 @@
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="Drink Water"
+                            android:text="@string/drink_water"
                             android:textColor="@color/text_primary_light"
                             android:textSize="14sp" />
 
@@ -185,7 +185,7 @@
                             android:id="@+id/habit1Progress"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="3/8"
+                            android:text="@string/_3_8"
                             android:textColor="@color/primary_green"
                             android:textSize="12sp"
                             android:textStyle="bold" />
@@ -223,7 +223,7 @@
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="Exercise"
+                            android:text="@string/exercise"
                             android:textColor="@color/text_primary_light"
                             android:textSize="14sp" />
 
@@ -268,7 +268,7 @@
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="Read Books"
+                            android:text="@string/read_books"
                             android:textColor="@color/text_primary_light"
                             android:textSize="14sp" />
 
@@ -310,7 +310,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="💧 Today's Hydration Progress"
+                    android:text="@string/today_s_hydration_progress"
                     android:textColor="@color/text_primary_light"
                     android:textSize="16sp"
                     android:textStyle="bold"
@@ -334,7 +334,7 @@
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="Water Intake"
+                            android:text="@string/water_intake"
                             android:textColor="@color/text_primary_light"
                             android:textSize="14sp" />
 
@@ -342,7 +342,7 @@
                             android:id="@+id/hydrationProgress"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="3/8 glasses"
+                            android:text="@string/_3_8_glasses"
                             android:textColor="@color/primary_green"
                             android:textSize="12sp"
                             android:textStyle="bold" />
@@ -384,7 +384,7 @@
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
                         android:layout_weight="1"
-                        android:text="📈 Weekly Mood Trend"
+                        android:text="@string/weekly_mood_trend"
                         android:textColor="@color/text_primary_light"
                         android:textSize="16sp"
                         android:textStyle="bold" />
@@ -393,7 +393,7 @@
                         android:id="@+id/moodTrendSummary"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Trending up! 📈"
+                        android:text="@string/trending_up"
                         android:textColor="@color/primary_green"
                         android:textSize="12sp"
                         android:textStyle="bold" />
@@ -420,7 +420,7 @@
                             android:layout_width="0dp"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="7-Day Mood Flow"
+                            android:text="@string/_7_day_mood_flow"
                             android:textColor="@color/text_secondary_subtle"
                             android:textSize="12sp" />
 
@@ -452,7 +452,7 @@
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Excited"
+                                android:text="@string/excited"
                                 android:textColor="@color/accent_teal"
                                 android:textSize="10sp"
                                 android:layout_marginBottom="8dp" />
@@ -697,7 +697,7 @@
                                 android:layout_width="match_parent"
                                 android:layout_height="2dp"
                                 android:layout_marginTop="20dp"
-                                android:background="@color/accent_teal"
+                                android:background="@color/accent_lavender"
                                 android:alpha="0.8" />
 
                         </FrameLayout>

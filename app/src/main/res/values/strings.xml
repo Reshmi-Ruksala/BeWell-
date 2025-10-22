@@ -2,4 +2,23 @@
     <string name="app_name">NewBewell</string>
     <string name="bewell" />
     <string name="bewell_logo" />
+    <string name="next">next</string>
+    <string name="good_morning">Good Morning! ☀️</string>
+    <string name="ready_to_make_today_amazing">Ready to make today amazing?</string>
+    <string name="_14_30">14:30</string>
+    <string name="dec_15_2024">Dec 15, 2024</string>
+    <string name="current_mood">😊 Current Mood</string>
+    <string name="happy">Happy</string>
+    <string name="today_s_habits_progress">📋 Today\'s Habits Progress</string>
+    <string name="drink_water">Drink Water</string>
+    <string name="_3_8">3/8</string>
+    <string name="exercise">Exercise</string>
+    <string name="read_books">Read Books</string>
+    <string name="today_s_hydration_progress">💧 Today\'s Hydration Progress</string>
+    <string name="water_intake">Water Intake</string>
+    <string name="_3_8_glasses">3/8 glasses</string>
+    <string name="weekly_mood_trend">📈 Weekly Mood Trend</string>
+    <string name="trending_up">Trending up! 📈</string>
+    <string name="_7_day_mood_flow">7-Day Mood Flow</string>
+    <string name="excited">Excited</string>
 </resources>
