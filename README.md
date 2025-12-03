@@ -37,20 +37,7 @@ All data stored using **Shared Preferences** for seamless, lightweight performan
 
 ---
 
-## 📸 App Screenshots
-<img width="443" height="983" alt="Screenshot 2025-11-19 164459" src="https://github.com/user-attachments/assets/d2ae27d2-0fba-4644-a0ae-07e092e4358c" />
 
-> Replace the image links with your actual screenshot files (e.g., `/assets/screen1.png`)
-
-### 🖼️ **UI Preview**
-
-<p align="center">
-  <img src="assets/screen1.png" alt="BeWell+ Home Screen" width="250" />
-  <img src="assets/screen2.png" alt="Water Tracker Screen" width="250" />
-  <img src="assets/screen3.png" alt="Habit Tracker Screen" width="250" />
-</p>
-
----
 
 ## 💡 About BeWell+
 BeWell+ focuses on simplicity, motivation, and daily progress.  
