@@ -17,10 +17,10 @@ Create habits, stay consistent, and celebrate your progress visually.
 Record workouts, monitor progress, and keep your fitness journey organized.
 
 🌓 **Dark & Light Mode**  
-Comfortable reading and tracking no matter the time of day.
+Comfortable tracking any time of day.
 
 🎯 **Progress Overview**  
-Beautiful insights and summaries to keep you motivated and aligned with your goals.
+Beautiful insights and summaries to keep you motivated.
 
 📝 **Local Data Storage**  
 All data stored using **Shared Preferences** for seamless, lightweight performance.
@@ -37,15 +37,24 @@ All data stored using **Shared Preferences** for seamless, lightweight performan
 
 ---
 
-## 💡 About BeWell+
-BeWell+ focuses on simplicity, motivation, and daily progress.  
-Whether you're hydrating more, building habits, or tracking workouts — BeWell+ helps you stay accountable in the most intuitive way.
+## 📸 App Screenshots
+<img width="443" height="983" alt="Screenshot 2025-11-19 164459" src="https://github.com/user-attachments/assets/d2ae27d2-0fba-4644-a0ae-07e092e4358c" />
+
+> Replace the image links with your actual screenshot files (e.g., `/assets/screen1.png`)
+
+### 🖼️ **UI Preview**
+
+<p align="center">
+  <img src="assets/screen1.png" alt="BeWell+ Home Screen" width="250" />
+  <img src="assets/screen2.png" alt="Water Tracker Screen" width="250" />
+  <img src="assets/screen3.png" alt="Habit Tracker Screen" width="250" />
+</p>
 
 ---
 
-## 📸 Screenshots  
-_Add your UI screens here once ready._
-<img width="443" height="983" alt="Screenshot 2025-11-19 164459" src="https://github.com/user-attachments/assets/5f889a8d-1b0b-4098-87f7-cbf97820b747" />
+## 💡 About BeWell+
+BeWell+ focuses on simplicity, motivation, and daily progress.  
+Whether you're hydrating more, building habits, or tracking workouts — BeWell+ helps you stay accountable in the most intuitive way.
 
 ---
 
