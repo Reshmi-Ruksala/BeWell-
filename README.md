@@ -1,21 +1,53 @@
-📚 BeWell+ – Wellness Tracking Mobile Application
+# 📚 BeWell+ – Wellness Tracking Mobile Application
 
-BeWell+ is a modern wellness tracking mobile application designed to help users build healthy habits and maintain a balanced lifestyle.
-It includes daily habit tracking, water intake monitoring, and gym routine logging — all wrapped in a clean and motivating UI.
+**BeWell+** is a beautifully crafted wellness tracking mobile app designed to help users build healthy habits and maintain a balanced lifestyle.  
+With powerful daily tracking features and a smooth, modern interface, BeWell+ makes staying consistent feel effortless.
 
-🚀 Features
+---
 
-💧 Water Intake Tracker – Log and monitor your daily hydration goals.
-📅 Daily Habit Tracking – Build consistency with habits that matter to you.
-🏋️‍♂️ Gym Routine Logging – Record workouts and track your fitness progress.
-🌓 Dark & Light Mode – Comfortable UI for any time of the day.
-🎯 Progress Overview – Visual insights to help you stay on track.
-📝 Local Data Storage – Uses Shared Preferences to store user data efficiently.
+## 🚀 Features
 
-🛠️ Tech Stack
+💧 **Water Intake Tracker**  
+Track your daily hydration goals and stay refreshed throughout the day.
 
-Frontend / Mobile: Kotlin (Android)
-Data Storage: Shared Preferences
-State Management: ViewModel + LiveData (if used)
-UI: Material Design Components
-Version Control: Git + GitHub
+📅 **Daily Habit Tracking**  
+Create habits, stay consistent, and celebrate your progress visually.
+
+🏋️‍♂️ **Gym Routine Logging**  
+Record workouts, monitor progress, and keep your fitness journey organized.
+
+🌓 **Dark & Light Mode**  
+Comfortable reading and tracking no matter the time of day.
+
+🎯 **Progress Overview**  
+Beautiful insights and summaries to keep you motivated and aligned with your goals.
+
+📝 **Local Data Storage**  
+All data stored using **Shared Preferences** for seamless, lightweight performance.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend / Mobile:** Kotlin (Android)  
+- **Architecture:** MVVM (ViewModel + LiveData)  
+- **Local Storage:** Shared Preferences  
+- **UI Design:** Material Design 3 Components  
+- **Version Control:** Git + GitHub  
+
+---
+
+## 💡 About BeWell+
+BeWell+ focuses on simplicity, motivation, and daily progress.  
+Whether you're hydrating more, building habits, or tracking workouts — BeWell+ helps you stay accountable in the most intuitive way.
+
+---
+
+## 📸 Screenshots  
+_Add your UI screens here once ready._
+
+---
+
+## 📄 License  
+This project is developed for educational and personal portfolio purposes.
+
