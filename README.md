@@ -45,6 +45,7 @@ Whether you're hydrating more, building habits, or tracking workouts — BeWell+
 
 ## 📸 Screenshots  
 _Add your UI screens here once ready._
+<img width="443" height="983" alt="Screenshot 2025-11-19 164459" src="https://github.com/user-attachments/assets/5f889a8d-1b0b-4098-87f7-cbf97820b747" />
 
 ---
 
